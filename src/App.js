@@ -1,8 +1,10 @@
+import Weather from "./components/Weather";
+
 function App() {
   return (
-    <div className="App">
-      <h1>KAREEM ZAHOOR</h1>
-    </div>
+    <>
+    <Weather />
+    </>
   );
 }
 
